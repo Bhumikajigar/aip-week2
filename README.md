@@ -1,1 +1,3 @@
 # aip-week2
+hello world.....
+this is my repository. I create its first time.
